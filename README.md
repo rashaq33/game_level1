@@ -1,5 +1,6 @@
 # 🌟 **ROQAA: Improve Your Vision with Fun!** 🌟
-![Uploading ‏لقطة الشاشة ١٤٤٦-٠٧-٢١ في ٢.٢٢.٣٤ م.png…]()
+![Uploading 1.png…]()
+
 
 Welcome to **ROQAA**, the app designed to help children with lazy eye (Amblyopia) by turning their vision exercises into an exciting game! The app encourages children to track a star with their eyes, gradually improving their vision while having fun. 👀✨
 
